@@ -1,0 +1,8 @@
+build/
+.vs
+.vscode
+### Gradle template
+.gradle
+**/build/
+!src/**/build/
+
