@@ -2,7 +2,7 @@
 
 Welcome! and thank you for applying!
 
-> To get started with the project please refer to the <strong>Instructions</strong> directory.
+> To get started with the project please refer to the <strong>Instructions</strong> directory. I practise writing clean code inspired from Uncle Bob's Clean Code. You will find necessary comments made as and when required. 
 
 ## Requirement
 
