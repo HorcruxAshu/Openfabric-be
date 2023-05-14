@@ -2,6 +2,8 @@
 
 Welcome! and thank you for applying!
 
+> To get started with the project please refer to the <strong>Information</strong> directory.
+
 ## Requirement
 
 Your task is to add the necessary features to the current project's API blueprint structure to enable
