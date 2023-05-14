@@ -2,7 +2,7 @@
 
 Welcome! and thank you for applying!
 
-> To get started with the project please refer to the <strong>Information</strong> directory.
+> To get started with the project please refer to the <strong>Instructions</strong> directory.
 
 ## Requirement
 

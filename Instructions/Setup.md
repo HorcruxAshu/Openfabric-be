@@ -1,7 +1,7 @@
 # Local Setup: 
 
 ### Requirements:
-> My System Specs: WIN 10, RAM 8GB, SSD 1TB.
+My System Specs: WIN 10, RAM 8GB, SSD 1TB.
 
 > All the requirements need to get started with the project are listed down. 
 

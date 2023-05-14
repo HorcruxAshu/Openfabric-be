@@ -75,7 +75,7 @@ public class WorkerService {
                 worker.setImageId(container.getImageId());
             }
             worker.setContainerId(container.getId());
-            worker.setName(container.getNames()[0].substring(1)); // remove the leading '/' from the container name
+            worker.setName(container.getNames()[0].substring(1));
             worker.setCommand(container.getCommand());
             worker.setImage(container.getImage());
             worker.setImageId(container.getImageId());
