@@ -31,5 +31,5 @@
 4. Run the project
 
 Outcome :- 
-    ![Outcome](/outcome.jpg)
+    ![Outcome](outcome.JPG)
    
